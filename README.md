@@ -1,1 +1,1 @@
-Ce dossier contient tous les projets sur lesquels j'ai pu travailler pour l'année scolaire 2023/2024 pour ma deuxième année de master au Master Mathématiques, Modélisation et Apprentissage au sein de l'université  Paris Cité
+Ce dossier contient tous les projets sur lesquels j'ai pu travailler pour l'année scolaire 2023/2024 pour ma deuxième année de Master Mathématiques, Modélisation et Apprentissage au sein de l'université  Paris Cité
